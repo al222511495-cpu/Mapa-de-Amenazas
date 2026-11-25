@@ -4,7 +4,7 @@ Mapa mundial que muestra ataques informáticos en tiempo real como líneas anima
 
 Demo en vivo: https://luisdg69.github.io/Mapa-de-Amenazas/
 
-## Dos formas de usarlo
+## Dos formas de usarlo...
 
 ### Demo estática (GitHub Pages, sin servidor)
 Abre `docs/index.html` directamente en el navegador o usa el link de GitHub Pages.
